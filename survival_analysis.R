@@ -6,7 +6,7 @@ library(broom)
 
 #Load the data
 
-setwd('C:/Users/migue/Documents/Tukan/Estudios/Analisis Supervivencia/')
+setwd('')
 
 
 data_covid <- read.csv('data/200610COVID19MEXICO.csv', stringsAsFactors = F)
